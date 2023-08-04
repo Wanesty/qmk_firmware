@@ -1,11 +1,11 @@
 # keeb_x3
 
-![3D render showing the "keeb-x3" used layout](https://codeberg.org/wanesty/keeb-x3/media/branch/main/pics/layout.png)
+![3D render showing the "keeb-x3" used layout](https://i.imgur.com/OkPvd4L.jpeg)
 
 *these firmware files are for a 96% / 1800-style ortholinear keyboard named "keeb-x3" which have it's cad files hosted on a [Codeberg repo](https://codeberg.org/wanesty/keeb-x3) and is lisenced under the [Nonviolent Public License](https://thufie.lain.haus/NPL.html)*
 
 * Keyboard Maintainer: [wanesty](https://gockin.me)
-* Hardware Supported: *[custom pcb](https://codeberg.org/wanesty/keeb-x3) using the rp2040*
+* Hardware Supported: [custom pcb](https://codeberg.org/wanesty/keeb-x3) using the rp2040
 
 Make example for this keyboard (after setting up your build environment):
 
